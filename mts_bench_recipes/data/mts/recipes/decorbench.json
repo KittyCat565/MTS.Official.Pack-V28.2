@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a  ",
+    "ebb",
+    "c d"
+  ],
+  "key": {
+    "a": { "item": "minecraft:glass_pane" },
+    "b": { "item": "minecraft:heavy_weighted_pressure_plate" },
+    "c": { "item": "minecraft:comparator" },
+    "d": { "item": "minecraft:iron_ingot" },
+    "e": { "item": "minecraft:copper_ingot" }
+  },
+  "result": { "item": "mts:mts.decorbench" }
+}

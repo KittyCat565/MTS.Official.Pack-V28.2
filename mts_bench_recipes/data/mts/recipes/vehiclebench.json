@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "bcd",
+    "e e"
+  ],
+  "key": {
+    "a": { "tag": "minecraft:planks" },
+    "b": { "item": "minecraft:paper" },
+    "c": { "item": "minecraft:lectern" },
+    "d": { "item": "minecraft:writable_book" },
+    "e": { "item": "minecraft:oak_fence" }
+  },
+  "result": { "item": "mts:mts.vehiclebench" }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    " ba",
+    "acd"
+  ],
+  "key": {
+    "a": { "item": "minecraft:iron_ingot" },
+    "b": { "item": "minecraft:diamond" },
+    "c": { "item": "minecraft:anvil" },
+    "d": { "item": "minecraft:copper_block" }
+  },
+  "result": { "item": "mts:mts.propellerbench" }
+}
